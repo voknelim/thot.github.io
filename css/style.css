@@ -1,12 +1,12 @@
 
-body {
+main {
   background-color: coral;
 }
 
-h1 {
+main > h1 {
   color: RED;
 }
 
-p {
-  color: PINK;
+main > p {
+  color: GREEN;
 }
